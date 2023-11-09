@@ -1,0 +1,13 @@
+.review-container {
+    margin: 50px auto;
+}
+
+.checkout-btn {
+    background-color: #FF9900;
+    border-radius: 4px;
+    width: 100%;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
